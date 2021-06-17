@@ -164,6 +164,7 @@ Other Languages
 - `joachimschmidt557/zig-wcwidth`: Zig
 - `fumiyas/wcwidth-cjk`: `LD_PRELOAD` override
 - `joshuarubin/wcwidth9`: Unicode version 9 in C
+- `spectreconsole/wcwidth`_: C#
 
 History
 -------
